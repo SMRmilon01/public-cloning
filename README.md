@@ -19,8 +19,8 @@ pip install bs4
 
 rm -rf Public
 
-git clone https://github.com/AKING110/Public
+git clone https://github.com/SMRmilon01/public_cloning
 
-cd Public
+cd public_cloning
 
-python AKING.py
+python MILON.py
