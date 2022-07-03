@@ -19,8 +19,8 @@ pip install bs4
 
 rm -rf Public
 
-git clone https://github.com/SMRmilon01/public_cloning
+git clone https://github.com/SMRmilon01/public-cloning
 
-cd public_cloning
+cd public-cloning
 
 python MILON.py
